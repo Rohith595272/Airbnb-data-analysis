@@ -1,0 +1,404 @@
+[
+    {
+        "property_size": "Medium",
+        "avg_amenity_score": 30.587412587412587,
+        "neighbourhood_cleansed": "Central City",
+        "customer_prefer": 47.62589009164352
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 30.545454545454547,
+        "neighbourhood_cleansed": "Whitney",
+        "customer_prefer": 47.795765877957656
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 27.9625,
+        "neighbourhood_cleansed": "East Riverside",
+        "customer_prefer": 46.70205479452055
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 41.0,
+        "neighbourhood_cleansed": "U.S. Naval Base",
+        "customer_prefer": 49.863013698630134
+    },
+    {
+        "property_size": "Small",
+        "avg_amenity_score": 31.863636363636363,
+        "neighbourhood_cleansed": "Milneburg",
+        "customer_prefer": 52.54047322540473
+    },
+    {
+        "property_size": "VerySmall",
+        "avg_amenity_score": 18.8,
+        "neighbourhood_cleansed": "Pontchartrain Park",
+        "customer_prefer": 19.835616438356162
+    },
+    {
+        "property_size": "Medium",
+        "avg_amenity_score": 31.21153846153846,
+        "neighbourhood_cleansed": "Leonidas",
+        "customer_prefer": 51.73340358271865
+    },
+    {
+        "property_size": "Small",
+        "avg_amenity_score": 25.59090909090909,
+        "neighbourhood_cleansed": "Garden District",
+        "customer_prefer": 46.1519302615193
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 24.106382978723403,
+        "neighbourhood_cleansed": "East Carrollton",
+        "customer_prefer": 54.43893908481492
+    },
+    {
+        "property_size": "Small",
+        "avg_amenity_score": 30.214285714285715,
+        "neighbourhood_cleansed": "Old Aurora",
+        "customer_prefer": 36.144814090019565
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 26.185897435897434,
+        "neighbourhood_cleansed": "French Quarter",
+        "customer_prefer": 44.34492448191078
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 30.130434782608695,
+        "neighbourhood_cleansed": "Gert Town",
+        "customer_prefer": 65.20547945205479
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 26.333333333333332,
+        "neighbourhood_cleansed": "West Lake Forest",
+        "customer_prefer": 28.995433789954337
+    },
+    {
+        "property_size": "Small",
+        "avg_amenity_score": 29.685714285714287,
+        "neighbourhood_cleansed": "Fillmore",
+        "customer_prefer": 45.76908023483365
+    },
+    {
+        "property_size": "Small",
+        "avg_amenity_score": 31.12280701754386,
+        "neighbourhood_cleansed": "Marlyville - Fontainbleau",
+        "customer_prefer": 51.85291997116077
+    },
+    {
+        "property_size": "Small",
+        "avg_amenity_score": 22.8,
+        "neighbourhood_cleansed": "Florida Area",
+        "customer_prefer": 76.0
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 32.0,
+        "neighbourhood_cleansed": "Plum Orchard",
+        "customer_prefer": 49.93150684931506
+    },
+    {
+        "property_size": "Medium",
+        "avg_amenity_score": 30.841614906832298,
+        "neighbourhood_cleansed": "Seventh Ward",
+        "customer_prefer": 56.662979664766446
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 31.555555555555557,
+        "neighbourhood_cleansed": "Lower Ninth Ward",
+        "customer_prefer": 68.85844748858446
+    },
+    {
+        "property_size": "Small",
+        "avg_amenity_score": 37.0,
+        "neighbourhood_cleansed": "New Aurora - English Turn",
+        "customer_prefer": 46.575342465753415
+    },
+    {
+        "property_size": "Medium",
+        "avg_amenity_score": 30.034013605442176,
+        "neighbourhood_cleansed": "Bywater",
+        "customer_prefer": 52.8562109775417
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 31.5,
+        "neighbourhood_cleansed": "Uptown",
+        "customer_prefer": 54.55330553901131
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 32.84615384615385,
+        "neighbourhood_cleansed": "City Park",
+        "customer_prefer": 57.850368809272915
+    },
+    {
+        "property_size": "Small",
+        "avg_amenity_score": 31.235294117647058,
+        "neighbourhood_cleansed": "Algiers Point",
+        "customer_prefer": 62.2938490464679
+    },
+    {
+        "property_size": "Small",
+        "avg_amenity_score": 33.266666666666666,
+        "neighbourhood_cleansed": "Navarre",
+        "customer_prefer": 37.077625570776256
+    },
+    {
+        "property_size": "Small",
+        "avg_amenity_score": 32.27272727272727,
+        "neighbourhood_cleansed": "Dillard",
+        "customer_prefer": 53.499377334993774
+    },
+    {
+        "property_size": "Small",
+        "avg_amenity_score": 28.391304347826086,
+        "neighbourhood_cleansed": "Fairgrounds",
+        "customer_prefer": 51.36688505062537
+    },
+    {
+        "property_size": "Small",
+        "avg_amenity_score": 26.0,
+        "neighbourhood_cleansed": "St. Bernard Area",
+        "customer_prefer": 28.972602739726025
+    },
+    {
+        "property_size": "Small",
+        "avg_amenity_score": 25.85,
+        "neighbourhood_cleansed": "Black Pearl",
+        "customer_prefer": 46.082191780821915
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 31.08695652173913,
+        "neighbourhood_cleansed": "Little Woods",
+        "customer_prefer": 48.73138773079213
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 29.333333333333332,
+        "neighbourhood_cleansed": "Behrman",
+        "customer_prefer": 41.3013698630137
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 29.408602150537636,
+        "neighbourhood_cleansed": "Audubon",
+        "customer_prefer": 53.13595522168213
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 26.166666666666668,
+        "neighbourhood_cleansed": "Read Blvd East",
+        "customer_prefer": 43.42465753424657
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 32.53488372093023,
+        "neighbourhood_cleansed": "Broadmoor",
+        "customer_prefer": 60.18158649251354
+    },
+    {
+        "property_size": "Small",
+        "avg_amenity_score": 31.458333333333332,
+        "neighbourhood_cleansed": "St.  Anthony",
+        "customer_prefer": 38.630136986301366
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 31.593023255813954,
+        "neighbourhood_cleansed": "Irish Channel",
+        "customer_prefer": 60.2899012424339
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 28.166666666666668,
+        "neighbourhood_cleansed": "Desire Area",
+        "customer_prefer": 63.37899543378995
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 33.5,
+        "neighbourhood_cleansed": "Tall Timbers - Brechtel",
+        "customer_prefer": 24.904109589041095
+    },
+    {
+        "property_size": "VeryLarge",
+        "avg_amenity_score": 23.25,
+        "neighbourhood_cleansed": "Lakeshore - Lake Vista",
+        "customer_prefer": 38.630136986301366
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 29.5,
+        "neighbourhood_cleansed": "Read Blvd West",
+        "customer_prefer": 10.684931506849315
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 32.41836734693877,
+        "neighbourhood_cleansed": "Milan",
+        "customer_prefer": 57.06737489516354
+    },
+    {
+        "property_size": "Medium",
+        "avg_amenity_score": 29.77181208053691,
+        "neighbourhood_cleansed": "St. Claude",
+        "customer_prefer": 56.71600625172381
+    },
+    {
+        "property_size": "Medium",
+        "avg_amenity_score": 32.25,
+        "neighbourhood_cleansed": "Freret",
+        "customer_prefer": 62.23972602739726
+    },
+    {
+        "property_size": "Medium",
+        "avg_amenity_score": 31.71875,
+        "neighbourhood_cleansed": "Touro",
+        "customer_prefer": 61.823630136986296
+    },
+    {
+        "property_size": "Medium",
+        "avg_amenity_score": 31.97872340425532,
+        "neighbourhood_cleansed": "Holy Cross",
+        "customer_prefer": 57.28359078985718
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 29.0,
+        "neighbourhood_cleansed": "Gentilly Woods",
+        "customer_prefer": 48.00842992623814
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 32.77215189873418,
+        "neighbourhood_cleansed": "Bayou St. John",
+        "customer_prefer": 60.416160915554016
+    },
+    {
+        "property_size": "Small",
+        "avg_amenity_score": 30.601744186046513,
+        "neighbourhood_cleansed": "Marigny",
+        "customer_prefer": 50.148932781140495
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 32.59836065573771,
+        "neighbourhood_cleansed": "Tulane - Gravier",
+        "customer_prefer": 64.35212216483269
+    },
+    {
+        "property_size": "Medium",
+        "avg_amenity_score": 25.541666666666668,
+        "neighbourhood_cleansed": "Mcdonogh",
+        "customer_prefer": 51.41552511415525
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 31.5,
+        "neighbourhood_cleansed": "St. Thomas Dev",
+        "customer_prefer": 58.6733958183129
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 32.0,
+        "neighbourhood_cleansed": "Dixon",
+        "customer_prefer": 0.0
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 26.0,
+        "neighbourhood_cleansed": "B. W. Cooper",
+        "customer_prefer": 8.21917808219178
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 31.5,
+        "neighbourhood_cleansed": "Hollygrove",
+        "customer_prefer": 60.61643835616438
+    },
+    {
+        "property_size": "Small",
+        "avg_amenity_score": 29.692307692307693,
+        "neighbourhood_cleansed": "West End",
+        "customer_prefer": 50.537407797681766
+    },
+    {
+        "property_size": "Medium",
+        "avg_amenity_score": 29.374834437086093,
+        "neighbourhood_cleansed": "Central Business District",
+        "customer_prefer": 39.076839335933954
+    },
+    {
+        "property_size": "Small",
+        "avg_amenity_score": 30.318181818181817,
+        "neighbourhood_cleansed": "Gentilly Terrace",
+        "customer_prefer": 54.028642590286424
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 30.333333333333332,
+        "neighbourhood_cleansed": "Lake Catherine",
+        "customer_prefer": 30.228310502283104
+    },
+    {
+        "property_size": "Medium",
+        "avg_amenity_score": 31.324324324324323,
+        "neighbourhood_cleansed": "West Riverside",
+        "customer_prefer": 56.69011477230655
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 29.802325581395348,
+        "neighbourhood_cleansed": "Treme - Lafitte",
+        "customer_prefer": 52.018955081236065
+    },
+    {
+        "property_size": "Medium",
+        "avg_amenity_score": 32.34657039711191,
+        "neighbourhood_cleansed": "Mid-City",
+        "customer_prefer": 49.562336185154045
+    },
+    {
+        "property_size": "Small",
+        "avg_amenity_score": 32.86666666666667,
+        "neighbourhood_cleansed": "Lakeview",
+        "customer_prefer": 57.68036529680365
+    },
+    {
+        "property_size": "Medium",
+        "avg_amenity_score": 31.983050847457626,
+        "neighbourhood_cleansed": "St. Roch",
+        "customer_prefer": 50.299512421639186
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 31.5,
+        "neighbourhood_cleansed": "Lake Terrace & Oaks",
+        "customer_prefer": 6.780821917808219
+    },
+    {
+        "property_size": "Small",
+        "avg_amenity_score": 26.2,
+        "neighbourhood_cleansed": "Pines Village",
+        "customer_prefer": 22.19178082191781
+    },
+    {
+        "property_size": "Large",
+        "avg_amenity_score": 33.6,
+        "neighbourhood_cleansed": "Village De Lest",
+        "customer_prefer": 65.80821917808218
+    },
+    {
+        "property_size": "Medium",
+        "avg_amenity_score": 29.953333333333333,
+        "neighbourhood_cleansed": "Lower Garden District",
+        "customer_prefer": 39.06849315068493
+    }
+]

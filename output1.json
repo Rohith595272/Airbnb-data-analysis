@@ -1,0 +1,1647 @@
+[
+    {
+        "max_price": 1652,
+        "min_price": 140,
+        "price_elasticity": 50.4,
+        "neighborhood": "Central Business District",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 1095,
+        "min_price": 45,
+        "price_elasticity": 9.813084112149532,
+        "neighborhood": "Treme - Lafitte",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 307,
+        "min_price": 65,
+        "price_elasticity": 7.333333333333333,
+        "neighborhood": "Broadmoor",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 300,
+        "min_price": 300,
+        "price_elasticity": 0.0,
+        "neighborhood": "New Aurora - English Turn",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 250,
+        "min_price": 44,
+        "price_elasticity": 34.333333333333336,
+        "neighborhood": "Desire Area",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 2500,
+        "min_price": 55,
+        "price_elasticity": 12.936507936507937,
+        "neighborhood": "Treme - Lafitte",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 657,
+        "min_price": 657,
+        "price_elasticity": 0.0,
+        "neighborhood": "Pontchartrain Park",
+        "property_size": "VerySmall"
+    },
+    {
+        "max_price": 65,
+        "min_price": 65,
+        "price_elasticity": 0.0,
+        "neighborhood": "Behrman",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 40,
+        "min_price": 40,
+        "price_elasticity": 0.0,
+        "neighborhood": "Tall Timbers - Brechtel",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 1786,
+        "min_price": 74,
+        "price_elasticity": 40.76190476190476,
+        "neighborhood": "Gentilly Terrace",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 160,
+        "min_price": 55,
+        "price_elasticity": 15.0,
+        "neighborhood": "Gentilly Terrace",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 1445,
+        "min_price": 63,
+        "price_elasticity": 26.576923076923077,
+        "neighborhood": "West Riverside",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 224,
+        "min_price": 125,
+        "price_elasticity": 33.0,
+        "neighborhood": "Lower Ninth Ward",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 1000,
+        "min_price": 75,
+        "price_elasticity": 16.818181818181817,
+        "neighborhood": "French Quarter",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 75,
+        "min_price": 75,
+        "price_elasticity": 0.0,
+        "neighborhood": "Plum Orchard",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 787,
+        "min_price": 35,
+        "price_elasticity": 12.129032258064516,
+        "neighborhood": "Bywater",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 83,
+        "min_price": 83,
+        "price_elasticity": 0.0,
+        "neighborhood": "Behrman",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 303,
+        "min_price": 55,
+        "price_elasticity": 6.358974358974359,
+        "neighborhood": "Lower Garden District",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 400,
+        "min_price": 11,
+        "price_elasticity": 9.487804878048781,
+        "neighborhood": "Mid-City",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 110,
+        "min_price": 69,
+        "price_elasticity": 20.5,
+        "neighborhood": "Old Aurora",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 76,
+        "min_price": 68,
+        "price_elasticity": 4.0,
+        "neighborhood": "Whitney",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 35,
+        "min_price": 35,
+        "price_elasticity": 0.0,
+        "neighborhood": "Hollygrove",
+        "property_size": "VerySmall"
+    },
+    {
+        "max_price": 109,
+        "min_price": 85,
+        "price_elasticity": 12.0,
+        "neighborhood": "Milneburg",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 450,
+        "min_price": 143,
+        "price_elasticity": 61.4,
+        "neighborhood": "East Riverside",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 370,
+        "min_price": 370,
+        "price_elasticity": 0.0,
+        "neighborhood": "Tulane - Gravier",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 614,
+        "min_price": 80,
+        "price_elasticity": 19.071428571428573,
+        "neighborhood": "Irish Channel",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 327,
+        "min_price": 68,
+        "price_elasticity": 25.9,
+        "neighborhood": "West End",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 1847,
+        "min_price": 42,
+        "price_elasticity": 10.680473372781066,
+        "neighborhood": "Central City",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 500,
+        "min_price": 37,
+        "price_elasticity": 24.36842105263158,
+        "neighborhood": "Central Business District",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 124,
+        "min_price": 97,
+        "price_elasticity": 13.5,
+        "neighborhood": "St. Roch",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 450,
+        "min_price": 55,
+        "price_elasticity": 23.235294117647058,
+        "neighborhood": "City Park",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 500,
+        "min_price": 75,
+        "price_elasticity": 47.22222222222222,
+        "neighborhood": "Navarre",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 264,
+        "min_price": 50,
+        "price_elasticity": 11.88888888888889,
+        "neighborhood": "East Carrollton",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 120,
+        "min_price": 120,
+        "price_elasticity": 0.0,
+        "neighborhood": "Desire Area",
+        "property_size": "VerySmall"
+    },
+    {
+        "max_price": 1229,
+        "min_price": 58,
+        "price_elasticity": 39.03333333333333,
+        "neighborhood": "Holy Cross",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 3000,
+        "min_price": 115,
+        "price_elasticity": 288.5,
+        "neighborhood": "Bywater",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 795,
+        "min_price": 42,
+        "price_elasticity": 62.75,
+        "neighborhood": "Behrman",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 180,
+        "min_price": 180,
+        "price_elasticity": 0.0,
+        "neighborhood": "Little Woods",
+        "property_size": "VerySmall"
+    },
+    {
+        "max_price": 249,
+        "min_price": 59,
+        "price_elasticity": 31.666666666666668,
+        "neighborhood": "St. Claude",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 2068,
+        "min_price": 16,
+        "price_elasticity": 31.09090909090909,
+        "neighborhood": "Marigny",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 263,
+        "min_price": 26,
+        "price_elasticity": 12.473684210526315,
+        "neighborhood": "St. Roch",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 2000,
+        "min_price": 83,
+        "price_elasticity": 37.588235294117645,
+        "neighborhood": "Audubon",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 180,
+        "min_price": 180,
+        "price_elasticity": 0.0,
+        "neighborhood": "Tulane - Gravier",
+        "property_size": "VerySmall"
+    },
+    {
+        "max_price": 300,
+        "min_price": 300,
+        "price_elasticity": 0.0,
+        "neighborhood": "Lakeshore - Lake Vista",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 1047,
+        "min_price": 74,
+        "price_elasticity": 44.22727272727273,
+        "neighborhood": "St. Thomas Dev",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 1637,
+        "min_price": 40,
+        "price_elasticity": 16.29591836734694,
+        "neighborhood": "Seventh Ward",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 278,
+        "min_price": 228,
+        "price_elasticity": 25.0,
+        "neighborhood": "Pontchartrain Park",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 750,
+        "min_price": 45,
+        "price_elasticity": 41.470588235294116,
+        "neighborhood": "St.  Anthony",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 557,
+        "min_price": 100,
+        "price_elasticity": 152.33333333333334,
+        "neighborhood": "St. Bernard Area",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 152,
+        "min_price": 145,
+        "price_elasticity": 2.3333333333333335,
+        "neighborhood": "French Quarter",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 1281,
+        "min_price": 88,
+        "price_elasticity": 27.74418604651163,
+        "neighborhood": "Marigny",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 159,
+        "min_price": 45,
+        "price_elasticity": 9.5,
+        "neighborhood": "Holy Cross",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 250,
+        "min_price": 64,
+        "price_elasticity": 37.2,
+        "neighborhood": "Lakeview",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 408,
+        "min_price": 77,
+        "price_elasticity": 17.42105263157895,
+        "neighborhood": "Dillard",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 105,
+        "min_price": 29,
+        "price_elasticity": 19.0,
+        "neighborhood": "West Riverside",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 659,
+        "min_price": 69,
+        "price_elasticity": 45.38461538461539,
+        "neighborhood": "Milneburg",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 233,
+        "min_price": 233,
+        "price_elasticity": 0.0,
+        "neighborhood": "St. Bernard Area",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 900,
+        "min_price": 41,
+        "price_elasticity": 171.8,
+        "neighborhood": "Bayou St. John",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 308,
+        "min_price": 84,
+        "price_elasticity": 18.666666666666668,
+        "neighborhood": "Milan",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 409,
+        "min_price": 55,
+        "price_elasticity": 11.419354838709678,
+        "neighborhood": "City Park",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 105,
+        "min_price": 80,
+        "price_elasticity": 12.5,
+        "neighborhood": "Dillard",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 296,
+        "min_price": 65,
+        "price_elasticity": 16.5,
+        "neighborhood": "Garden District",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 1000,
+        "min_price": 93,
+        "price_elasticity": 41.22727272727273,
+        "neighborhood": "Old Aurora",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 300,
+        "min_price": 149,
+        "price_elasticity": 37.75,
+        "neighborhood": "Village De Lest",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 130,
+        "min_price": 35,
+        "price_elasticity": 23.75,
+        "neighborhood": "St. Bernard Area",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 354,
+        "min_price": 66,
+        "price_elasticity": 15.157894736842104,
+        "neighborhood": "St. Thomas Dev",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 942,
+        "min_price": 50,
+        "price_elasticity": 21.75609756097561,
+        "neighborhood": "Milan",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 385,
+        "min_price": 65,
+        "price_elasticity": 13.91304347826087,
+        "neighborhood": "Algiers Point",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 268,
+        "min_price": 73,
+        "price_elasticity": 97.5,
+        "neighborhood": "Tall Timbers - Brechtel",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 98,
+        "min_price": 65,
+        "price_elasticity": 16.5,
+        "neighborhood": "Dixon",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 350,
+        "min_price": 55,
+        "price_elasticity": 59.0,
+        "neighborhood": "Irish Channel",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 200,
+        "min_price": 45,
+        "price_elasticity": 38.75,
+        "neighborhood": "Fillmore",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 100,
+        "min_price": 80,
+        "price_elasticity": 10.0,
+        "neighborhood": "Black Pearl",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 214,
+        "min_price": 94,
+        "price_elasticity": 9.23076923076923,
+        "neighborhood": "Freret",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 425,
+        "min_price": 425,
+        "price_elasticity": 0.0,
+        "neighborhood": "Lakeview",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 4465,
+        "min_price": 75,
+        "price_elasticity": 9.242105263157894,
+        "neighborhood": "Central Business District",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 916,
+        "min_price": 25,
+        "price_elasticity": 11.278481012658228,
+        "neighborhood": "Bywater",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 379,
+        "min_price": 65,
+        "price_elasticity": 28.545454545454547,
+        "neighborhood": "Gentilly Woods",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 181,
+        "min_price": 181,
+        "price_elasticity": 0.0,
+        "neighborhood": "Pontchartrain Park",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 500,
+        "min_price": 44,
+        "price_elasticity": 152.0,
+        "neighborhood": "West Lake Forest",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 1750,
+        "min_price": 75,
+        "price_elasticity": 28.879310344827587,
+        "neighborhood": "Uptown",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 200,
+        "min_price": 81,
+        "price_elasticity": 29.75,
+        "neighborhood": "West End",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 350,
+        "min_price": 83,
+        "price_elasticity": 38.142857142857146,
+        "neighborhood": "Lower Ninth Ward",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 261,
+        "min_price": 59,
+        "price_elasticity": 5.771428571428571,
+        "neighborhood": "St. Claude",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 220,
+        "min_price": 39,
+        "price_elasticity": 11.3125,
+        "neighborhood": "Broadmoor",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 950,
+        "min_price": 47,
+        "price_elasticity": 11.2875,
+        "neighborhood": "Mid-City",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 2812,
+        "min_price": 38,
+        "price_elasticity": 13.336538461538462,
+        "neighborhood": "Mid-City",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 1500,
+        "min_price": 70,
+        "price_elasticity": 102.14285714285714,
+        "neighborhood": "Treme - Lafitte",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 462,
+        "min_price": 0,
+        "price_elasticity": 66.0,
+        "neighborhood": "Marigny",
+        "property_size": "VerySmall"
+    },
+    {
+        "max_price": 135,
+        "min_price": 50,
+        "price_elasticity": 28.333333333333332,
+        "neighborhood": "City Park",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 265,
+        "min_price": 42,
+        "price_elasticity": 7.193548387096774,
+        "neighborhood": "Fairgrounds",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 275,
+        "min_price": 35,
+        "price_elasticity": 12.631578947368421,
+        "neighborhood": "Fairgrounds",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 250,
+        "min_price": 67,
+        "price_elasticity": 5.382352941176471,
+        "neighborhood": "Bayou St. John",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 200,
+        "min_price": 45,
+        "price_elasticity": 51.666666666666664,
+        "neighborhood": "St.  Anthony",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 157,
+        "min_price": 70,
+        "price_elasticity": 12.428571428571429,
+        "neighborhood": "Black Pearl",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 528,
+        "min_price": 89,
+        "price_elasticity": 219.5,
+        "neighborhood": "Hollygrove",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 500,
+        "min_price": 500,
+        "price_elasticity": 0.0,
+        "neighborhood": "St. Roch",
+        "property_size": "VerySmall"
+    },
+    {
+        "max_price": 600,
+        "min_price": 55,
+        "price_elasticity": 11.847826086956522,
+        "neighborhood": "East Riverside",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 78,
+        "min_price": 78,
+        "price_elasticity": 0.0,
+        "neighborhood": "Read Blvd East",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 60,
+        "min_price": 45,
+        "price_elasticity": 7.5,
+        "neighborhood": "Bywater",
+        "property_size": "VerySmall"
+    },
+    {
+        "max_price": 32,
+        "min_price": 24,
+        "price_elasticity": 2.6666666666666665,
+        "neighborhood": "Lakeshore - Lake Vista",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 239,
+        "min_price": 49,
+        "price_elasticity": 14.615384615384615,
+        "neighborhood": "Gert Town",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 134,
+        "min_price": 37,
+        "price_elasticity": 10.777777777777779,
+        "neighborhood": "Dillard",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 779,
+        "min_price": 62,
+        "price_elasticity": 102.42857142857143,
+        "neighborhood": "Little Woods",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 2057,
+        "min_price": 39,
+        "price_elasticity": 17.247863247863247,
+        "neighborhood": "St. Claude",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 75,
+        "min_price": 75,
+        "price_elasticity": 0.0,
+        "neighborhood": "Gentilly Woods",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 196,
+        "min_price": 138,
+        "price_elasticity": 19.333333333333332,
+        "neighborhood": "Seventh Ward",
+        "property_size": "VerySmall"
+    },
+    {
+        "max_price": 590,
+        "min_price": 42,
+        "price_elasticity": 3.2046783625730995,
+        "neighborhood": "Lower Garden District",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 1000,
+        "min_price": 42,
+        "price_elasticity": 33.03448275862069,
+        "neighborhood": "East Riverside",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 120,
+        "min_price": 105,
+        "price_elasticity": 5.0,
+        "neighborhood": "Seventh Ward",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 99,
+        "min_price": 76,
+        "price_elasticity": 5.75,
+        "neighborhood": "Navarre",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 160,
+        "min_price": 80,
+        "price_elasticity": 40.0,
+        "neighborhood": "Freret",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 223,
+        "min_price": 90,
+        "price_elasticity": 33.25,
+        "neighborhood": "Gert Town",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 337,
+        "min_price": 52,
+        "price_elasticity": 142.5,
+        "neighborhood": "Florida Area",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 120,
+        "min_price": 120,
+        "price_elasticity": 0.0,
+        "neighborhood": "West End",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 40,
+        "min_price": 40,
+        "price_elasticity": 0.0,
+        "neighborhood": "Desire Area",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 1093,
+        "min_price": 75,
+        "price_elasticity": 16.688524590163933,
+        "neighborhood": "Bayou St. John",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 50,
+        "min_price": 50,
+        "price_elasticity": 0.0,
+        "neighborhood": "Read Blvd West",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 38,
+        "min_price": 0,
+        "price_elasticity": 19.0,
+        "neighborhood": "Mid-City",
+        "property_size": "VerySmall"
+    },
+    {
+        "max_price": 1877,
+        "min_price": 59,
+        "price_elasticity": 9.56842105263158,
+        "neighborhood": "Central City",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 500,
+        "min_price": 26,
+        "price_elasticity": 12.473684210526315,
+        "neighborhood": "Leonidas",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 103,
+        "min_price": 83,
+        "price_elasticity": 10.0,
+        "neighborhood": "Algiers Point",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 16,
+        "min_price": 13,
+        "price_elasticity": 0.42857142857142855,
+        "neighborhood": "Gert Town",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 159,
+        "min_price": 159,
+        "price_elasticity": 0.0,
+        "neighborhood": "Navarre",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 395,
+        "min_price": 79,
+        "price_elasticity": 19.75,
+        "neighborhood": "East Carrollton",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 1100,
+        "min_price": 204,
+        "price_elasticity": 448.0,
+        "neighborhood": "Fairgrounds",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 61,
+        "min_price": 35,
+        "price_elasticity": 6.5,
+        "neighborhood": "Black Pearl",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 500,
+        "min_price": 0,
+        "price_elasticity": 50.0,
+        "neighborhood": "French Quarter",
+        "property_size": "VerySmall"
+    },
+    {
+        "max_price": 179,
+        "min_price": 33,
+        "price_elasticity": 13.272727272727273,
+        "neighborhood": "Milneburg",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 199,
+        "min_price": 46,
+        "price_elasticity": 4.935483870967742,
+        "neighborhood": "St. Roch",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 0,
+        "min_price": 0,
+        "price_elasticity": 0.0,
+        "neighborhood": "U.S. Naval Base",
+        "property_size": "VerySmall"
+    },
+    {
+        "max_price": 106,
+        "min_price": 95,
+        "price_elasticity": 5.5,
+        "neighborhood": "Touro",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 800,
+        "min_price": 119,
+        "price_elasticity": 37.833333333333336,
+        "neighborhood": "Little Woods",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 119,
+        "min_price": 37,
+        "price_elasticity": 4.555555555555555,
+        "neighborhood": "Tulane - Gravier",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 2000,
+        "min_price": 42,
+        "price_elasticity": 8.587719298245615,
+        "neighborhood": "Seventh Ward",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 149,
+        "min_price": 43,
+        "price_elasticity": 5.3,
+        "neighborhood": "East Carrollton",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 1100,
+        "min_price": 70,
+        "price_elasticity": 16.349206349206348,
+        "neighborhood": "Irish Channel",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 225,
+        "min_price": 100,
+        "price_elasticity": 31.25,
+        "neighborhood": "Plum Orchard",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 339,
+        "min_price": 125,
+        "price_elasticity": 21.4,
+        "neighborhood": "Lake Catherine",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 1598,
+        "min_price": 81,
+        "price_elasticity": 16.855555555555554,
+        "neighborhood": "Tulane - Gravier",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 120,
+        "min_price": 70,
+        "price_elasticity": 7.142857142857143,
+        "neighborhood": "Milan",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 532,
+        "min_price": 0,
+        "price_elasticity": 16.625,
+        "neighborhood": "Central Business District",
+        "property_size": "VerySmall"
+    },
+    {
+        "max_price": 714,
+        "min_price": 65,
+        "price_elasticity": 81.125,
+        "neighborhood": "Tall Timbers - Brechtel",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 500,
+        "min_price": 59,
+        "price_elasticity": 17.64,
+        "neighborhood": "Tulane - Gravier",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 215,
+        "min_price": 50,
+        "price_elasticity": 15.0,
+        "neighborhood": "East Riverside",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 156,
+        "min_price": 156,
+        "price_elasticity": 0.0,
+        "neighborhood": "Lower Garden District",
+        "property_size": "VerySmall"
+    },
+    {
+        "max_price": 771,
+        "min_price": 50,
+        "price_elasticity": 40.05555555555556,
+        "neighborhood": "Fillmore",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 814,
+        "min_price": 55,
+        "price_elasticity": 8.929411764705883,
+        "neighborhood": "Central City",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 125,
+        "min_price": 125,
+        "price_elasticity": 0.0,
+        "neighborhood": "Pontchartrain Park",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 945,
+        "min_price": 200,
+        "price_elasticity": 149.0,
+        "neighborhood": "Read Blvd East",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 499,
+        "min_price": 79,
+        "price_elasticity": 140.0,
+        "neighborhood": "Mid-City",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 95,
+        "min_price": 65,
+        "price_elasticity": 10.0,
+        "neighborhood": "Pines Village",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 699,
+        "min_price": 73,
+        "price_elasticity": 52.166666666666664,
+        "neighborhood": "Holy Cross",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 110,
+        "min_price": 88,
+        "price_elasticity": 4.4,
+        "neighborhood": "Algiers Point",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 246,
+        "min_price": 246,
+        "price_elasticity": 0.0,
+        "neighborhood": "Dixon",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 164,
+        "min_price": 65,
+        "price_elasticity": 19.8,
+        "neighborhood": "Whitney",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 697,
+        "min_price": 98,
+        "price_elasticity": 119.8,
+        "neighborhood": "Lake Terrace & Oaks",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 250,
+        "min_price": 40,
+        "price_elasticity": 26.25,
+        "neighborhood": "Old Aurora",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 99,
+        "min_price": 60,
+        "price_elasticity": 19.5,
+        "neighborhood": "St. Thomas Dev",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 329,
+        "min_price": 53,
+        "price_elasticity": 7.666666666666667,
+        "neighborhood": "Marlyville - Fontainbleau",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 293,
+        "min_price": 150,
+        "price_elasticity": 47.666666666666664,
+        "neighborhood": "Pines Village",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 795,
+        "min_price": 25,
+        "price_elasticity": 18.333333333333332,
+        "neighborhood": "Seventh Ward",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 93,
+        "min_price": 30,
+        "price_elasticity": 15.75,
+        "neighborhood": "Florida Area",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 175,
+        "min_price": 85,
+        "price_elasticity": 30.0,
+        "neighborhood": "Little Woods",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 84,
+        "min_price": 65,
+        "price_elasticity": 2.7142857142857144,
+        "neighborhood": "St.  Anthony",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 1571,
+        "min_price": 69,
+        "price_elasticity": 30.653061224489797,
+        "neighborhood": "Milan",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 600,
+        "min_price": 98,
+        "price_elasticity": 100.4,
+        "neighborhood": "Garden District",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 876,
+        "min_price": 60,
+        "price_elasticity": 28.137931034482758,
+        "neighborhood": "West Riverside",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 170,
+        "min_price": 170,
+        "price_elasticity": 0.0,
+        "neighborhood": "B. W. Cooper",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 514,
+        "min_price": 59,
+        "price_elasticity": 151.66666666666666,
+        "neighborhood": "Navarre",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 104,
+        "min_price": 39,
+        "price_elasticity": 16.25,
+        "neighborhood": "Hollygrove",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 200,
+        "min_price": 66,
+        "price_elasticity": 44.666666666666664,
+        "neighborhood": "Broadmoor",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 167,
+        "min_price": 72,
+        "price_elasticity": 9.5,
+        "neighborhood": "Mcdonogh",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 142,
+        "min_price": 142,
+        "price_elasticity": 0.0,
+        "neighborhood": "City Park",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 278,
+        "min_price": 99,
+        "price_elasticity": 44.75,
+        "neighborhood": "Lakeview",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 614,
+        "min_price": 53,
+        "price_elasticity": 43.15384615384615,
+        "neighborhood": "Hollygrove",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 300,
+        "min_price": 0,
+        "price_elasticity": 25.0,
+        "neighborhood": "Central City",
+        "property_size": "VerySmall"
+    },
+    {
+        "max_price": 807,
+        "min_price": 53,
+        "price_elasticity": 16.04255319148936,
+        "neighborhood": "Leonidas",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 125,
+        "min_price": 25,
+        "price_elasticity": 16.666666666666668,
+        "neighborhood": "Freret",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 70,
+        "min_price": 70,
+        "price_elasticity": 0.0,
+        "neighborhood": "Fillmore",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 120,
+        "min_price": 69,
+        "price_elasticity": 12.75,
+        "neighborhood": "Garden District",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 206,
+        "min_price": 134,
+        "price_elasticity": 14.4,
+        "neighborhood": "Irish Channel",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 450,
+        "min_price": 74,
+        "price_elasticity": 11.75,
+        "neighborhood": "Algiers Point",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 375,
+        "min_price": 68,
+        "price_elasticity": 9.903225806451612,
+        "neighborhood": "Audubon",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 799,
+        "min_price": 111,
+        "price_elasticity": 98.28571428571429,
+        "neighborhood": "Uptown",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 1350,
+        "min_price": 50,
+        "price_elasticity": 18.840579710144926,
+        "neighborhood": "Fairgrounds",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 199,
+        "min_price": 26,
+        "price_elasticity": 11.533333333333333,
+        "neighborhood": "Bywater",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 400,
+        "min_price": 79,
+        "price_elasticity": 40.125,
+        "neighborhood": "Lakeview",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 62,
+        "min_price": 62,
+        "price_elasticity": 0.0,
+        "neighborhood": "Marlyville - Fontainbleau",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 60,
+        "min_price": 50,
+        "price_elasticity": 5.0,
+        "neighborhood": "Mcdonogh",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 51,
+        "min_price": 51,
+        "price_elasticity": 0.0,
+        "neighborhood": "Gentilly Woods",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 696,
+        "min_price": 65,
+        "price_elasticity": 18.558823529411764,
+        "neighborhood": "Uptown",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 115,
+        "min_price": 30,
+        "price_elasticity": 42.5,
+        "neighborhood": "Village De Lest",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 95,
+        "min_price": 95,
+        "price_elasticity": 0.0,
+        "neighborhood": "Read Blvd West",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 944,
+        "min_price": 60,
+        "price_elasticity": 3.112676056338028,
+        "neighborhood": "Central Business District",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 79,
+        "min_price": 79,
+        "price_elasticity": 0.0,
+        "neighborhood": "St. Thomas Dev",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 256,
+        "min_price": 256,
+        "price_elasticity": 0.0,
+        "neighborhood": "West Lake Forest",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 700,
+        "min_price": 45,
+        "price_elasticity": 25.192307692307693,
+        "neighborhood": "Marlyville - Fontainbleau",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 1900,
+        "min_price": 85,
+        "price_elasticity": 72.6,
+        "neighborhood": "French Quarter",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 145,
+        "min_price": 72,
+        "price_elasticity": 12.166666666666666,
+        "neighborhood": "Gentilly Terrace",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 229,
+        "min_price": 37,
+        "price_elasticity": 10.666666666666666,
+        "neighborhood": "Fillmore",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 1499,
+        "min_price": 52,
+        "price_elasticity": 15.072916666666666,
+        "neighborhood": "Lower Garden District",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 350,
+        "min_price": 110,
+        "price_elasticity": 21.818181818181817,
+        "neighborhood": "Treme - Lafitte",
+        "property_size": "VerySmall"
+    },
+    {
+        "max_price": 407,
+        "min_price": 380,
+        "price_elasticity": 13.5,
+        "neighborhood": "Lake Catherine",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 1985,
+        "min_price": 85,
+        "price_elasticity": 15.32258064516129,
+        "neighborhood": "Marigny",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 4657,
+        "min_price": 64,
+        "price_elasticity": 59.64935064935065,
+        "neighborhood": "French Quarter",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 71,
+        "min_price": 71,
+        "price_elasticity": 0.0,
+        "neighborhood": "New Aurora - English Turn",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 550,
+        "min_price": 50,
+        "price_elasticity": 45.45454545454545,
+        "neighborhood": "Black Pearl",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 107,
+        "min_price": 107,
+        "price_elasticity": 0.0,
+        "neighborhood": "Lower Ninth Ward",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 175,
+        "min_price": 52,
+        "price_elasticity": 12.3,
+        "neighborhood": "Marlyville - Fontainbleau",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 700,
+        "min_price": 50,
+        "price_elasticity": 40.625,
+        "neighborhood": "Touro",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 620,
+        "min_price": 70,
+        "price_elasticity": 91.66666666666667,
+        "neighborhood": "Whitney",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 212,
+        "min_price": 72,
+        "price_elasticity": 10.0,
+        "neighborhood": "Audubon",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 409,
+        "min_price": 38,
+        "price_elasticity": 7.42,
+        "neighborhood": "Central City",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 799,
+        "min_price": 74,
+        "price_elasticity": 13.942307692307692,
+        "neighborhood": "Broadmoor",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 695,
+        "min_price": 50,
+        "price_elasticity": 161.25,
+        "neighborhood": "Garden District",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 100,
+        "min_price": 76,
+        "price_elasticity": 8.0,
+        "neighborhood": "Tall Timbers - Brechtel",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 607,
+        "min_price": 51,
+        "price_elasticity": 29.263157894736842,
+        "neighborhood": "Mcdonogh",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 999,
+        "min_price": 42,
+        "price_elasticity": 14.5,
+        "neighborhood": "Treme - Lafitte",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 268,
+        "min_price": 68,
+        "price_elasticity": 50.0,
+        "neighborhood": "Touro",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 175,
+        "min_price": 58,
+        "price_elasticity": 16.714285714285715,
+        "neighborhood": "Uptown",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 567,
+        "min_price": 60,
+        "price_elasticity": 13.0,
+        "neighborhood": "Lower Garden District",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 556,
+        "min_price": 87,
+        "price_elasticity": 20.391304347826086,
+        "neighborhood": "Freret",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 150,
+        "min_price": 44,
+        "price_elasticity": 4.608695652173913,
+        "neighborhood": "St. Claude",
+        "property_size": "Small"
+    },
+    {
+        "max_price": 586,
+        "min_price": 35,
+        "price_elasticity": 5.622448979591836,
+        "neighborhood": "St. Roch",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 199,
+        "min_price": 179,
+        "price_elasticity": 5.0,
+        "neighborhood": "Irish Channel",
+        "property_size": "VerySmall"
+    },
+    {
+        "max_price": 343,
+        "min_price": 62,
+        "price_elasticity": 15.61111111111111,
+        "neighborhood": "Touro",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 560,
+        "min_price": 560,
+        "price_elasticity": 0.0,
+        "neighborhood": "Little Woods",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 547,
+        "min_price": 25,
+        "price_elasticity": 14.108108108108109,
+        "neighborhood": "Leonidas",
+        "property_size": "Medium"
+    },
+    {
+        "max_price": 200,
+        "min_price": 159,
+        "price_elasticity": 20.5,
+        "neighborhood": "U.S. Naval Base",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 300,
+        "min_price": 125,
+        "price_elasticity": 87.5,
+        "neighborhood": "West Lake Forest",
+        "property_size": "Large"
+    },
+    {
+        "max_price": 346,
+        "min_price": 72,
+        "price_elasticity": 39.142857142857146,
+        "neighborhood": "Audubon",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 145,
+        "min_price": 95,
+        "price_elasticity": 25.0,
+        "neighborhood": "St. Bernard Area",
+        "property_size": "VerySmall"
+    },
+    {
+        "max_price": 442,
+        "min_price": 137,
+        "price_elasticity": 50.833333333333336,
+        "neighborhood": "West Riverside",
+        "property_size": "VeryLarge"
+    },
+    {
+        "max_price": 2089,
+        "min_price": 0,
+        "price_elasticity": 14.210884353741497,
+        "neighborhood": "Marigny",
+        "property_size": "Medium"
+    }
+]
