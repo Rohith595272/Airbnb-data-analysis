@@ -22,7 +22,3 @@ This project performs NoSQL-based data analysis on Airbnb listings from New Orle
 
 - [New Orleans Airbnb Listings and Reviews](http://insideairbnb.com/get-the-data.html)
 
-## 👨‍💻 Authors
-
-- Rohith Vardhan Siliveri
-- Rugvedh Vaidya
